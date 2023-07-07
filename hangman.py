@@ -10,7 +10,7 @@ import random # Needed to select random word.
 
 
 # -------------------
-# VARIABLES - Containerps that store information in memory that we will use later
+# VARIABLES - Containers that store information in memory that we will use later
 # -------------------
 words = [] # `words` is defined as an empty array, which will later have a lot of different words from where will we randomly choose one for the game.
 
